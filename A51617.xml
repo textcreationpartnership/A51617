@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pegiama or The vertues of, and way how to use the minerall and medicinall-water at Peterhead in Scotland within the shire of Aberdene: whose latitude is 57. degrees 43. minuts: longitude 22. degrees 40. minuts. This being the compend of a peece, written anno 1636. by A. M. the student, now M.D. &amp; P. in A. R. Aberdon.</title>
+            <title>Pedax petreia. Abridgements.</title>
+            <author>Mure, Andrew, M.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51617</idno>
+            <idno type="STC">Wing M3097B</idno>
+            <idno type="STC">ESTC R216874</idno>
+            <idno type="EEBO-CITATION">99828591</idno>
+            <idno type="PROQUEST">99828591</idno>
+            <idno type="VID">33021</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51617)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33021)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1931:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pegiama or The vertues of, and way how to use the minerall and medicinall-water at Peterhead in Scotland within the shire of Aberdene: whose latitude is 57. degrees 43. minuts: longitude 22. degrees 40. minuts. This being the compend of a peece, written anno 1636. by A. M. the student, now M.D. &amp; P. in A. R. Aberdon.</title>
+                  <title>Pedax petreia. Abridgements.</title>
+                  <author>Mure, Andrew, M.D.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by Iohn Forbes younger, printer to the Universitie,</publisher>
+                  <pubPlace>Aberdene :</pubPlace>
+                  <date>anno 1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First word of title transcribed from the Greek.</note>
+                  <note>Abridged from: Mure, Andrew.  Pedax petreia or, the discoverie of S. Peters well, at Peter-head. 1636 (cf. STC).</note>
+                  <note>Cropped with slight loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mineral waters --  Scotland --  Peterhead --  Early works to 1800.</term>
+               <term>Wells --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:33021:1"/>
+            <head>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Or the Vertues of, and way how to uſe the Minerall and Medicinall-Water at PETERHEAD in SCOTLAND, within the <hi>Shire</hi> of <hi>ABERDENE</hi>: Whoſe <hi>Latitude</hi> is 57. <hi>Degrees</hi> 43. <hi>minuts: Longitude</hi> 22. <hi>Degrees</hi> 40. <hi>minuts.</hi>
+            </head>
+            <head type="sub">This being the Compend of a Peece, written <hi>Anno</hi> 1636. by A.M. <hi>then Student,</hi> now M.D. &amp; P. in <hi>A.R. Aberdon.</hi>
+            </head>
+            <p>THis water by the tryall of judicious Men, and manifold Expe<g ref="char:EOLhyphen"/>riments of diſeaſed People of all Ranks, Sexes, and Ages, is found to be nothing inferiour to the Spaw Minerall waters in <hi>Germany</hi>; and farre to excell the wells of <hi>Bourbon,</hi> of <hi>Pougues,</hi> of <hi>Forges</hi> in France: of <hi>Porrecta</hi> in <hi>Italy</hi>: of <hi>Tunbridge</hi> of <hi>Kneſburgh</hi> in <hi>ENG<g ref="char:EOLhyphen"/>LAND</hi>: or any other as yet found out in <hi>Europe.</hi>
+            </p>
+            <p>The Mineralls and Mettall through which theſe waters paſſe, and whoſe Tu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e they carry with them, are <hi>Vitriol</hi>: and <hi>Materia proxima omnium Metallorum,</hi> as hath been made often evident to the Eye, Taſte, and Touch of the Learned.</p>
+            <p>For the Vertues of this Water; it purgeth and waſheth viſcide and tartareous Humors, extenuateth <hi>Pituite,</hi> it voideth the <hi>Liver Melt, Miſera<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ks,</hi> and other our Entrails of whatſoever obſtructions are troubleſome to them, it tempereth the heat of the <hi>Kidneys,</hi> purging and expelling their <hi>Gravel, Sand,</hi> and <hi>Stones,</hi> more forcible then any other <hi>Medicament.</hi> It hindreth the concretion or coagulation of <hi>Sand.</hi> reſiſting the generation of <hi>confirmed Stones,</hi> and if confirmed, dimi<g ref="char:EOLhyphen"/>niſheth them. It purgeth the <hi>Bladder,</hi> and mundifieth the <hi>Stone</hi> of viſcide <hi>pitutle</hi> and <hi>Mucoſitie,</hi> wherewith it is often environed: pre<g ref="char:EOLhyphen"/>paring it to be eaſily taken out by <hi>Lithotomie.</hi> It is moſt profitable for the <hi>Vlcers</hi> of the <hi>Reins,</hi> and <hi>Carnoſities</hi> in the Urinall paſſages. It certainly helpeth the <hi>venerean</hi> and <hi>virulent Gonorhaea,</hi> and all other diſ<g ref="char:EOLhyphen"/>eaſes of that ſort applyed without: For their <hi>Vlcers Chancres, Poulains, Puſtuls</hi> within by Injection and Potion. It helpeth the concoction of the <hi>Stomack,</hi> and by Aſtrction ſo doth ſtrengthen the ſame, that no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ec<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n complaine of harme. By its actuall coldneſs, it quencheth <hi>Thriſt</hi> appeaſeth <hi>Dolours,</hi> throwing of the <hi>Belly,</hi> with <hi>Collick</hi> and <hi>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ack</hi> Paſſions. It purifieth the <hi>Blood,</hi> killeth and expelleth <hi>Wormes,</hi> Chaſ<g ref="char:EOLhyphen"/>eth away <hi>Fevers</hi> of all ſorts cleanſeth the Skin of <hi>Scabs</hi> by Lotion and Bathing. It openeth the <hi>Belly,</hi> if bound: and reſtraineth the <hi>Fluxes</hi> thereof, working proportionally according to the neceſſity of Na<g ref="char:EOLhyphen"/>ture, helping the defects thereof.</p>
+            <p>Theſe waters carry with them out of the Body diverſe wayes, all ſorts of excrementious Humors, Our <hi>Hydropeta</hi> piſſe much, the ex<g ref="char:EOLhyphen"/>pulſive faculty being helped through the diuretick quality of the Wa<g ref="char:EOLhyphen"/>ter, then groſſe Excrements (the time of the drinking of the water,) are Black or Greeniſh; becauſe the ſalt of Minerals by its precipiating Vertue, <hi>Facit terreſtreitatem deſcendere ad fundum.</hi> Some Vomite, voyding their Stomack of ſuperfluous Humors: Some Sweat, ſending forth their Obſtructions by the Pores: and ſo theſe Clear Pure waters, gracious both to <hi>Pallat</hi> and <hi>Eyes,</hi> provock many and diverſe evacua<g ref="char:EOLhyphen"/>tions. which ſcarce any Artificial <hi>Medicament</hi> could effectuat. They agree with both Sexes, all Ages, reſtoring Health loſt, preſerving in In<g ref="char:EOLhyphen"/>tegrity the preſent.</p>
+            <p>Is there any Impurity or Corruption offending Nature: By what better and more ſafe way can it be exſtirpat, then by ſo excellent and Pure a thing is this? If any Fever invade us, with what <hi>ſharpe Iulep.</hi> with what more convenient efficacious Syrup of <hi>Limons</hi> ſhall you ex<g ref="char:EOLhyphen"/>tinguiſh it, then with the Balſamick aciditie of our Medicinall Water? Is there any paine to quench, let this be your <hi>Anodyne,</hi> this your only and ſafe <hi>Landanum</hi> or <hi>Nepenthe,</hi> this your ſafeſt <hi>Tryacle,</hi> your whol<g ref="char:EOLhyphen"/>ſome. <hi>Alexipharmacum</hi> and <hi>Antidote</hi> to aboliſh Poyſonable, Peſtilent, and Maligne Qualities? No <hi>Bezoar</hi> Naturall, nor Artificial <hi>Animal,</hi> Mineral or Metallick, no <hi>Alkermes</hi> comparable to this for corroborat<g ref="char:EOLhyphen"/>ing the Heart, that our Bodies may by its comforting help continue in living ſtrength and vigour. Theſe and many more Vertues are pro<g ref="char:EOLhyphen"/>per to this <hi>Panacea and univerſal Medicine,</hi> whoſe ſalt is Deterſive, Purgative diuretick, an univerſal voider and corrective of all <hi>Impurities</hi> and <hi>Corruptions,</hi> its <hi>Sulphur,</hi> a general and ſpiritual <hi>Anodyne,</hi> its <hi>Mercurie,</hi> an univerſall <hi>Conſortative,</hi> which being all conjoyned in our water by the induſtrious working of Nature can furniſh us means not only for defence, but alſo for expulſion and ſuppreſsion of Diſeaſes; as an ex<g ref="char:EOLhyphen"/>cellent inſtrument appointed by GODS Providence for the help of Mankinde. It is found by Learned <hi>Phyſitians</hi> to be the only Sove<g ref="char:EOLhyphen"/>raigne ſpecifick remedy, (to which difeated Perſons ſhould runne as to their laſt refuge upon Earth, when all other Artificial helps are ineffect<g ref="char:EOLhyphen"/>ual,) for the Diſeaſes of <hi>Liver, Splen, Kedneyes,</hi> and all other rebel<g ref="char:EOLhyphen"/>lious obſtructions. Yea, its vertues are not confined within the com<g ref="char:EOLhyphen"/>paſſe of the generality that doth not reach to the particular Diſeaſes of the infirmer Sex; which as it is more lovely and delicat then the other; ſo it is more opportune to its own defects: and is obnoxious to ſome proper diſeaſes as farre different from theſe of men, as the Sex is from the Sex. This Water helpeth as other common Diſeaſes, ſo <hi>Barrenneſs</hi> in both, but in the weaker Sex; the pale colours the immo<g ref="char:EOLhyphen"/>derate evacuation or retention in their deſired Sickneſſe: inſurrection Precipitation, Suffocation and other Diſeaſes of the Mother.</p>
+            <div type="part">
+               <head>Of the Time when, and Manner how theſe Waters are to be taken.</head>
+               <p>HE who is to drink of this Water either for curing Diſeaſes; reſtoring Health loſt, or to preſerve it being preſent, avoiding future inconveniencies, ſhall come to this <hi>Well</hi> any time of the Year when the Weather is Good, Ayre Dry, and Cleare: but eſpe<g ref="char:EOLhyphen"/>cially in the Moneths of <hi>May, Iune, Iully, Auguſt,</hi> and <hi>September</hi>; reſting the firſt day after Arrivall, the next day let him be Purged with ſome fit and convenient <hi>Medicament,</hi> by the advice of ſome un<g ref="char:EOLhyphen"/>derſtanding and approved <hi>Phyſitian,</hi> the day following Purgation let<g ref="char:EOLhyphen"/>him come to the <hi>Well,</hi> (neither feare any <hi>Hypercatharſis</hi> or <hi>Superpurga<g ref="char:EOLhyphen"/>tion</hi>) early in the Morning. Faſting, yet, after the Sun ryſing: And drink firſt a Cup full about the quantity of half a <hi>Mutchken,</hi> or half an <hi>Engliſh pynt,</hi> within half an houre thereafter take an other Cup-full, of the ſame quantity, and ſo every half an houre, for two houres two Cups: which will make a Scotiſh <hi>Chopin</hi> or an Engliſh <hi>Quart.</hi> The ſecond day, every half-houre of two houres two Cups, which wil make a <hi>Scotiſh Pynt.</hi> The third day take every half houre of the fore<g ref="char:EOLhyphen"/>ſaid time three Cups; which will make three <hi>Chopins</hi>: and ſo continue twenty, thirty, fourty dayes, or ſo long as the Diſeaſe requireth, or Affaires can permit. VValk a little betwixt the drinking of your Cups: taking above the waters a little confected <hi>Anyſe, Coriander, Cynamon,</hi> or ſome good <hi>Tablets</hi> proper for the Diſeaſe, or <hi>Tobacco</hi> to help the Stomack to daunt and vanquiſh the actuall coldneſs of the water, ryde or exerciſe your Bodyes with any moderat Recreation, whilleſt the moſt part of the water be voided, which will be ſo ſoon as the Urine doth beginne to be colcured: Then dyne upon Meat of good digeſtion and proper to the Nature of the Perſon and Diſeaſe. Afternoone, uſe ſuch recreation as occaſion ſhall offer, and ſup moderatly. If the Ayre be troubled with Foggy Miſts or Rainy, or if the Perſon be not able to travel conveniently; the water may be taken lying in a Bed with good ſucceſſe.</p>
+               <p>A day after you leave of the drinking of water: Take ſome other good purgative Medicine by the foreſaid advyce. After you returne home; live a long time Temperatly; in a convenient Ayre, with whol<g ref="char:EOLhyphen"/>ſome Meat and Dring, moderat ſleep and exerciſe; avoiding repletion or immoderat evacuation of the <hi>Belly, Intestines</hi> or <hi>Veynes, naturâ vel arte.</hi> Flec perturbation of the Minde: And in ſo doing by the Grace of GOD, you ſhall continue Healthfull even to your Lives end.</p>
+            </div>
+            <closer>AMEN.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
